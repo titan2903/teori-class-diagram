@@ -1,3 +1,6 @@
+
+![Perbedaan antar jenis relasi](./images/image.png)
+
 Tabel yang kamu berikan menunjukkan relasi-relasi dalam **Class Diagram** beserta makna, simbol, kekuatan hubungan, masa hidup objek, dan contoh untuk masing-masing relasi tersebut. Berikut penjelasan lebih detail untuk setiap kolom yang ada dalam tabel:
 
 ### 1. **Association ("knows-about")**
